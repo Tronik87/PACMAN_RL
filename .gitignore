@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs and outputs
+logs/
+videos/
+
+# Tensorboard files
+events.out.tfevents*
+
+# Model checkpoints (optional)
+*.zip
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
