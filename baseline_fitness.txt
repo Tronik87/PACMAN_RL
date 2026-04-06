@@ -1,0 +1,3 @@
+-------------------------------------------------
+Baseline DDQN Avg Fitness:   25.4
+Baseline DDQN Max Fitness:   41.0
